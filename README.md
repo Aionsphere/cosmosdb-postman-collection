@@ -1,5 +1,5 @@
-# documentdb-postman-collection
-Postman collection demonstrating REST access for DocumentDB
+# cosmosdb-postman-collection
+Postman v2 collection demonstrating REST access for CosmosDB
 
 Every script in the collection uses a pre-request script to create the AUTH headers and format the request based on simply the URL, the functions in all of the requests are actually identical, so you can copy any request, change the uri and save again and it 
 
